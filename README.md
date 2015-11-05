@@ -16,3 +16,5 @@ If the user does not select one of these 5 options, they will be prompted again.
 
 The two main classes, Main.java and Client.java, are included in the src folder.
 The twitter4j library has also been included.
+
+It is easiest to git clone this repo and run the code in an IDE for java. I used IntelliJ.
