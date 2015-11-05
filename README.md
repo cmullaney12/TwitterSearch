@@ -11,4 +11,5 @@ The user is given 5 options:
   -tweets from (outputs tweets sent from a certain user)  
   -tweets to (outputs tweets sent to a certain user)  
   -exit (exits the program)  
+  
 If the user does not select one of these 5 options, they will be prompted again.
